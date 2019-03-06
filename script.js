@@ -8,13 +8,13 @@ $("button").click(function() {
         answer="Superman";
 
     } else if (people >= 5000 && "city" === place) {
-        // Wonder Woman
+       answer= "Wonder Woman";
 
     } else if (people >= 5000 && "city" === place) {
-        // Batman
+       answer="Batman";
 
     } else if (people <= 500 && "rural" === place) {
-        // Aquaman
+        answer="Aquaman";
 
     } else {
         // Oops You Did It Wrong
